@@ -7,6 +7,17 @@
     font-family: "Dancing Script", cursive;
 }
 
+#navbarNav .navbar-nav a {
+  color: #959595;
+  transition: .3s;
+}
+#navbarNav .navbar-nav a:hover {
+  background-color: #fad9a1;
+  color: #fff;
+  border-radius: 15px;
+  
+}
+
 .feature h2 {
    color: #f37878;
 }
