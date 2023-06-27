@@ -28,7 +28,7 @@ const deadline = document.querySelector(".deadline");
 const items = document.querySelectorAll(".deadline-format h4")
 
 
-let futureDate = new Date(2022,10,13,12,30,0);
+let futureDate = new Date(2026,10,13,12,30,0);
 
 
 const year = futureDate.getFullYear(); 
